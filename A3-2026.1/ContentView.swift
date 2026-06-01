@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  A3-2026.1
-//
-//  Created by Ramael Cerqueira on 28.5.2026.
-//
-
 import SwiftUI
 
 struct ContentView: View {
